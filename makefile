@@ -1,5 +1,5 @@
 all:
-	gcc -o nEnLinea nInLineBack.c nInLineFront.c
+	gcc -o nInLine nInLineBack.c nInLineFront.c
 	
 	
 clean:
